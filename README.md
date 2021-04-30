@@ -18,6 +18,7 @@ These homework consists of two challenges: WeatherPy and VacationPy.
   - Humidity (%) vs. Latitude
   - Cloudiness (%) vs. Latitude
   - Wind Speed (mph) vs. Latitude
+  
   Then I ran a linear regression on each relationship, but I  separated the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
   - Northern Hemisphere - Temperature (F) vs. Latitude
   - Southern Hemisphere - Temperature (F) vs. Latitude
@@ -27,4 +28,5 @@ These homework consists of two challenges: WeatherPy and VacationPy.
   - Southern Hemisphere - Cloudiness (%) vs. Latitude
   - Northern Hemisphere - Wind Speed (mph) vs. Latitude
   - Southern Hemisphere - Wind Speed (mph) vs. Latitude
+  
   My code also exports the CSV with the city data for further analysis and each of the plots was saved as a png file. Comments and insights are included within and after each section in the code.
